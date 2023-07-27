@@ -1,0 +1,18 @@
+
+<input type="text" #user>
+<button (click)="createConnection(user.value)">create</button>
+
+
+
+
+<input type="number" #reCid placeholder="enter receiver id">
+<input type="text" #mesdata placeholder="enter message ">
+
+<button (click)="sendMessage(reCid.value,mesdata.value)"> Send message</button>
+
+
+<h1 *ngFor="let item of mess">{{item.userId}}:-{{item.mes}}</h1> 
+
+
+
+

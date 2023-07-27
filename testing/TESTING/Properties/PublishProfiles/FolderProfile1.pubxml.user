@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\dotnet</_PublishTargetUrl>
+    <History>False|2023-07-27T09:08:17.2218553Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

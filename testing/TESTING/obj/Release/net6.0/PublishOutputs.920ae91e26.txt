@@ -1,0 +1,11 @@
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\TESTING.exe
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\TESTING.dll
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\TESTING.deps.json
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\TESTING.runtimeconfig.json
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\TESTING.pdb
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RASHMI\TESTING\TESTING\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
